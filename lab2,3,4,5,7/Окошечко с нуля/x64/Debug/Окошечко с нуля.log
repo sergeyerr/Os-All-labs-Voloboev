@@ -1,0 +1,15 @@
+﻿  MultiProcessStoryTelling.cpp
+c:\users\сергей\desktop\ready\окошечко с нуля\oslabfunctions.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SaveBitMaps.cpp
+  FileWorking.cpp
+c:\users\сергей\desktop\ready\окошечко с нуля\oslabfunctions.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\сергей\desktop\ready\окошечко с нуля\fileworking.cpp(130): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Graphics.cpp
+  OsLabGlobalsDefinition.cpp
+  Source.cpp
+c:\users\сергей\desktop\ready\окошечко с нуля\oslabfunctions.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Service.cpp
+c:\users\сергей\desktop\ready\окошечко с нуля\oslabfunctions.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\сергей\desktop\ready\окошечко с нуля\service.cpp(188): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  Generating Code...
+  Окошечко с нуля.vcxproj -> C:\Users\Сергей\Desktop\ready\x64\Debug\perfectGame.exe
